@@ -30,12 +30,21 @@
 #Sottotitolo{
     color: grey;
 }
+td{
+    color: black;
+}
 #testatabella{
     background-color: blue;
+    border: blue 2px;
     color: white;
     text-align: justify;
 }
 .rigacolorata{
     background-color: aqua;
+    border: aqua;
     color: white;
+}
+.dimensioneriga{
+    text-align: justify;
+    width: 200px;
 }
