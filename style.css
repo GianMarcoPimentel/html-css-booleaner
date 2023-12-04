@@ -35,7 +35,9 @@ td{
 }
 #testatabella{
     background-color: blue;
-    border: blue 2px;
+    border-color: blue 2px;
+    padding: 0px;
+    margin: 0px;
     color: white;
     text-align: justify;
 }
@@ -48,3 +50,16 @@ td{
     text-align: justify;
     width: 200px;
 }
+.immagine1{
+      width: auto;
+      height: auto;
+      position: relative;  
+}
+.scritta{
+    position: absolute;
+    top: 0;
+    color: white;
+}
+
+/*<img src="file:///Users/cholo69/Documents/Boolean%23118/Esercizi/html-css-booleaner/img/monitor.jpg" alt="foto che mostra un Monitor, schermo di un computer"><br>
+      <img src="file:///Users/cholo69/Documents/Boolean%23118/Esercizi/html-css-booleaner/img/graph.jpg" alt="fto che mostra un grafico a monitor">
